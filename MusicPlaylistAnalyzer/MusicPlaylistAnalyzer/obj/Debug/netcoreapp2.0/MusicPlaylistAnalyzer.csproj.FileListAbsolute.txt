@@ -1,0 +1,11 @@
+C:\Users\Saru\Documents\CS\2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp2.0\MusicPlaylistAnalyzer.deps.json
+C:\Users\Saru\Documents\CS\2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp2.0\MusicPlaylistAnalyzer.runtimeconfig.json
+C:\Users\Saru\Documents\CS\2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp2.0\MusicPlaylistAnalyzer.runtimeconfig.dev.json
+C:\Users\Saru\Documents\CS\2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp2.0\MusicPlaylistAnalyzer.dll
+C:\Users\Saru\Documents\CS\2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp2.0\MusicPlaylistAnalyzer.pdb
+C:\Users\Saru\Documents\CS\2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp2.0\MusicPlaylistAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Saru\Documents\CS\2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp2.0\MusicPlaylistAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Saru\Documents\CS\2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp2.0\MusicPlaylistAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Saru\Documents\CS\2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp2.0\MusicPlaylistAnalyzer.AssemblyInfo.cs
+C:\Users\Saru\Documents\CS\2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp2.0\MusicPlaylistAnalyzer.dll
+C:\Users\Saru\Documents\CS\2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp2.0\MusicPlaylistAnalyzer.pdb
